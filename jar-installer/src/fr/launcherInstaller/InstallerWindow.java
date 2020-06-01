@@ -3,7 +3,7 @@ package fr.launcherInstaller;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 
-import javax.awt.Color;
+import java.awt.Color;
 
 public class InstallerWindow extends JFrame{
   JPanel pan = new JPanel();
