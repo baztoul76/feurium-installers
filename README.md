@@ -9,7 +9,6 @@ c'est ici que se regrouperont **tous** les installers et archives pour le launch
 
                 ^
                 | *(on peut échanger)*
-
                 v
 
 [#] ensuite ***tu*** fais le .dmg (t'es sur mac)
