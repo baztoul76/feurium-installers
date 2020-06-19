@@ -7,9 +7,9 @@ c'est ici que se regrouperont **tous** les installers et archives pour le launch
 1. ensuite je fais le msi
 
 
-                ^
-                | *(on peut échanger)*
-                v
+^
+| *(on peut échanger)*
+v
 
 1. ensuite ***tu*** (:grin:) fais le .dmg (t'es sur mac)
 
