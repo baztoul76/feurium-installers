@@ -1,6 +1,6 @@
 # feurium-installers
 
-c'est ici que se regrouperont **tous** les installers et archives pour le launcher et le jeu côté client (bon rn gros les .jar pour lancer le jeu).
+c'est ici que se regrouperont **tous** les installers et archives pour le launcher et le jeu côté client (bon en gros les .jar pour lancer le jeu).
 
 1. on va commencer par le .jar (en java)
 1. ensuite je fais le msi
