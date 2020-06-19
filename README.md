@@ -11,7 +11,7 @@ c'est ici que se regrouperont **tous** les installers et archives pour le launch
                 | *(on peut échanger)*
                 v
 
-1. ensuite ***tu*** fais le .dmg (t'es sur mac)
+1. ensuite ***tu*** (:grin:) fais le .dmg (t'es sur mac)
 
 le tar.gz marche aussi sur mac, il faut juste changer le dossier d'installation (AppData sur windows, et je connais pas les autres :D) et l'exécutable (ou alors on garde le .jar comme ça on s'énerve pas)
 
